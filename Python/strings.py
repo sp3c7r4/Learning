@@ -10,3 +10,5 @@ print( course[0], course[-1] ) #Pg
 print ( course[0:3], course[0:] ) #pyt Python Programming
 print( course[:3] ) #Pyt
 print( course[:] ) #Python Programming
+
+#Escaping Sequences
